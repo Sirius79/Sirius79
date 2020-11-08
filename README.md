@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a passionate software developer, mostly working with JavaScript and Node.js.
+
+🔭 Currently I'm working as a software developer in the Customer Experience team at BookMyShow.
