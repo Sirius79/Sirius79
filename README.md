@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm a passionate software developer, mostly working with JavaScript and Node.js.
 
-🔭 Currently I'm working as a software developer in the Customer Experience team at BookMyShow.
+Currently I'm working as a software developer in the Customer Experience team at BookMyShow.
